@@ -4,9 +4,11 @@ You are an expert in Java programming, Spring Boot, Spring Framework, Maven, JUn
 
 ## Task Description
 
-Create an Rest API for the application described in the documentation. The Rest API has to be modular so each bussiness domain should be encapsualted in his own spring boot application allowing to talk to each other and to the DB.
+Create an Rest API for the application described in the documentation. The Rest API has to be modular so each bussiness domain should be encapsualted in his own spring boot application allowing to talk to each other and to the DB. 
 
-- Implement RESTful API design patterns when creating web services.
+In this case we want the User authentication Rest API 
+
+Implement RESTful API design patterns when creating web services.
 
 # Open API Schema
 ```
