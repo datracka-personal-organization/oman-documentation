@@ -1,4 +1,4 @@
-Please create 4 different microfrontends and the shell if needed all nested from the main "oman-client" folder. 
+Please create 4 different micro-frontends and the shell if needed all nested from the main "oman-client" folder. 
 
 As you already know each microfrontend will be his own app and will be able to 
 
